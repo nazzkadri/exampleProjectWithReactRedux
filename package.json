@@ -1,0 +1,11 @@
+{
+  "name": "exampleprojectwithreactredux",
+  "version": "1.0.0",
+  "description": "example project with react and redux from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naziya kadri",
+  "license": "ISC"
+}
